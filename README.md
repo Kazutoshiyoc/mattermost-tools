@@ -9,12 +9,12 @@ mattermost-tools
 ## QuickStart
 
 ### Installation
-1. Clone this repository.
+* Clone this repository.
 ```
 cd ~; git clone https://github.com/Kazutoshiyoc/mattermost-tools.git
 ```
-1. Install [Nodejs](https://nodejs.org/), a server-side JavaScript engine.
-1. Install [Puppeteer](https://pptr.dev/), a JavaScript library for controling browser.
+* Install [Nodejs](https://nodejs.org/), a server-side JavaScript engine.
+* Install [Puppeteer](https://pptr.dev/), a JavaScript library for controling browser.
 ```
 cd ~/mattermost-tools; npm init
 npm install puppeteer
